@@ -1,0 +1,11 @@
+#nextButton{
+	-fx-background-image: url('/assets/next.png');
+	-fx-background-repeat:no-repeat;
+	-fx-background-position: center center;
+}
+
+#stopButton{
+	-fx-background-image: url('/assets/stop.png');
+	-fx-background-repeat:no-repeat;
+	-fx-background-position: center center;
+}

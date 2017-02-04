@@ -1,0 +1,165 @@
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\FrontDesk.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Check launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe (OK)
+Match:		1.8.0_71
+Runtime used:	1.8.0_71 (64-bit)
+Launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\FrontDesk.exe"
+Args length:	63/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_1.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Check launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe (OK)
+Match:		1.8.0_71
+Runtime used:	1.8.0_71 (64-bit)
+Launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_1.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.7.0_80
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Check launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe (OK)
+Match:		1.8.0_71
+Runtime used:	1.8.0_71 (64-bit)
+Launcher:	C:\Program Files\Java\jdk1.8.0_71\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.8.0_111 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.8.0_111 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.8.0_111 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tarek\Dropbox\My Projects\iClinic\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Runtime used:	1.8.0_111 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tarek\Dropbox\My Projects\iClinic\clinic_2.exe"
+Args length:	62/32768 chars
+Exit code:	0

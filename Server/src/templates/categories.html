@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block content %}
+<script src="../static/js/category.js"></script>
+
+
+
+
+ <div class="row>">
+        <div class="col-xs-2"></div>
+        <div class="col-xs-8 tt">
+
+<form>
+            <table class="col-xs-9 table table-striped table-bordered table-responsive table-hover table-condensed">
+                <thead>
+
+                    <th><h4>Name</h4></th>
+                    <th><h4>Start</h4></th>
+                    <th><h4>End</h4></th>
+                    <th><h4>Type</h4></th>
+                    <th><h4>Edit</h4></th>
+
+                </thead>
+                <tbody>
+                {% for cat in cats %}
+                    <tr >
+
+                        <td>
+                            <div class="input-group">
+                                <input type="text" class="form-control"  value={{cat['name']}} id={{'name'+cat['_id']}}>
+                            </div>
+                        </td>
+
+                        <td>
+                            <div class="input-group">
+                                <input type="number" class="form-control"  value={{cat['start']}} id={{'start'+cat['_id']}}>
+                            </div>
+                        </td>
+
+                        <td>
+                            <div class="input-group">
+                                <input type="number" class="form-control"  value={{cat['end']}} id={{'end'+cat['_id']}}>
+                            </div>
+                        </td>
+
+                        <td>
+                            <div class="input-group">
+                                <select class="form-control" id={{'model-type'+cat['_id']}}>
+                                    {% if cat["model_type"] == "p" %}
+                                        <option selected="selected" value="p">Require a pre-clinic</option>
+                                        <option value="c">Does not require pre-clinic</option>
+                                    {% else %}
+                                        <option value="p">Require a pre-clinic</option>
+                                        <option selected="selected" value="c">Does not require pre-clinic</option>
+                                    {% endif %}
+                                </select>
+                            </div>
+                        </td>
+
+                        <td>
+                            <button class="btn btn-primary edit-btn" type="submit" id={{'edit'+cat['_id']}}> Edit</button>
+                        </td>
+
+
+                    </tr>
+
+                {% endfor %}
+
+
+                </tbody>
+
+            </table>
+    </form>
+        </div>
+        <div class="col-xs-2"></div>
+    </div>
+
+
+{% endblock %}
